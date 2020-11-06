@@ -20,7 +20,7 @@
 
 // --------------------2a) Create a test for a function called triangleArea that takes the base and the height of a triange and returns the area. The area of a triange is the base times the height divided by two.
 
-
+// change this?
 
 
 
