@@ -12,7 +12,7 @@
 var temp1 = 35
 var temp2 = 350
 var temp3 = 212
-
+// answer goes here!!
 
 
 
@@ -22,6 +22,7 @@ var temp3 = 212
 
 var myNumbers1 = [3, 7, 0, 6, -9]
 
+// answer goes here!!
 
 
 
